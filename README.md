@@ -4,7 +4,7 @@ The aim of this project is to determine if the new website design will lead to m
 
 ## Null & Alternative Hypothesis
 
-<img src="AB Split Testing Project/hypo.png">
+<img src="AB Split Testing Project/hypo.png" width="200">
 
 Experiment was simulated 10,000 times.
 
